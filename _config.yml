@@ -18,20 +18,20 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: My test collection
+title: Historic Illustrations of Art and Architecture
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Illustrations originally published during the late nineteenth and early twentieth centuries.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "While these illustrations are often beautiful examples of the draftsman's or engraver's skill, by their very nature they also represent subjective interpretations of the monuments and works depicted. Anyone wishing to use these images for teaching and research purposes should bear this in mind."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: benjohnsto
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata
+metadata: metadata
 
 ##########
 # GOOGLE SERVICES [optional!]
